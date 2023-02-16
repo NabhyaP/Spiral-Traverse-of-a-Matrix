@@ -35,3 +35,4 @@ while len(ans)<(r*c):
 			
 	x-=1
 	y-=1
+print(ans)
